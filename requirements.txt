@@ -1,0 +1,14 @@
+# Core dependencies
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+seaborn==0.13.2
+matplotlib==3.9.2
+joblib==1.4.2
+
+# For working with notebooks
+notebook==7.2.2
+ipykernel==6.29.5
+
+# (Optional) specify Python version for reproducibility
+python==3.10
