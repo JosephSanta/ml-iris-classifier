@@ -6,7 +6,7 @@ The goal is to explore the data, build baseline models, analyze errors, and pack
 ---
 
 ## 📂 Repository Structure
-
+```
 IRIS-CLASSIFIER/
 ├── notebooks/
 │   ├── Iris_exploracion_ES.ipynb     # Exploratory analysis in Spanish
@@ -24,7 +24,7 @@ IRIS-CLASSIFIER/
 ├── data/                             # (optional – empty, Iris comes from sklearn)
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 🎯 Objectives
