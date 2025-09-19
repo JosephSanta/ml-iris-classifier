@@ -11,10 +11,7 @@ IRIS-CLASSIFIER/
 ├── notebooks/
 │   ├── Iris_exploracion_ES.ipynb     # Exploratory analysis in Spanish
 │   ├── Iris_exploration_EN.ipynb     # Exploratory analysis in English
-│   └── images/                       # Plots saved for README
-│       ├── pairplot.png
-│       ├── confusion_matrix.png
-│       └── ...
+│                    
 ├── src/
 │   ├── train.py                      # Train and save model
 │   ├── predict.py                    # Load model and run predictions
